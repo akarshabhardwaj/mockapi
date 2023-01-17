@@ -2,7 +2,7 @@
   "name": "mockapi",
   "version": "1.0.0",
   "description": "* Create a folder\r ```\r mkdir bankapp-mock-api\r cd bankapp-mock-api\r ```",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
