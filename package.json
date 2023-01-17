@@ -1,23 +1,15 @@
 {
-  "name": "mockapi",
+  "name": "bankingapp-mock-api",
   "version": "1.0.0",
-  "description": "* Create a folder\r ```\r mkdir bankapp-mock-api\r cd bankapp-mock-api\r ```",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/akarshabhardwaj/mockapi.git"
+    "start" : "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/akarshabhardwaj/mockapi/issues"
-  },
-  "homepage": "https://github.com/akarshabhardwaj/mockapi#readme",
   "dependencies": {
-    "json-server": "^0.17.1"
+    "json-server": "^0.16.2"
   }
 }
